@@ -1,18 +1,18 @@
 {
-    "version": "3.31.20241013",
+    "version": "3.31.20241017",
     "description": "Family of tools designed to build, test and package software",
     "homepage": "https://cmake.org",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://cmake.org/files/dev/cmake-3.31.20241013-g9733ce1-windows-x86_64.zip",
-            "hash": "c3305f2ed2ed432ad0727209bc5a457b1adc7c5d2ab2b6ad364332c5a16b05d2",
-            "extract_dir": "cmake-3.31.20241013-g9733ce1-windows-x86_64"
+            "url": "https://cmake.org/files/dev/cmake-3.31.20241017-g3b3486d-windows-x86_64.zip",
+            "hash": "41af6fcfb69dd4f19106a7aa32773a8b17e6f8491b46774d43fe5abc97e836fa",
+            "extract_dir": "cmake-3.31.20241017-g3b3486d-windows-x86_64"
         },
         "32bit": {
-            "url": "https://cmake.org/files/dev/cmake-3.31.20241013-g9733ce1-windows-i386.zip",
-            "hash": "ec6c5d69d6dc9aa3ece5b207c850d4535375ead26f67f72c0c62a13c9870dec8",
-            "extract_dir": "cmake-3.31.20241013-g9733ce1-windows-i386"
+            "url": "https://cmake.org/files/dev/cmake-3.31.20241017-g3b3486d-windows-i386.zip",
+            "hash": "bb52df430f23a7a2fe0b5c5669ba7c7286b3aaa596f06297cf52219f9da6737c",
+            "extract_dir": "cmake-3.31.20241017-g3b3486d-windows-i386"
         }
     },
     "bin": [
